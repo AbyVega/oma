@@ -1,0 +1,10 @@
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/evaluacion
+        username: root
+        password: 123
+oauth2:
+    jwt:
+        key: 123Oma
+    resourceId: backend
+
