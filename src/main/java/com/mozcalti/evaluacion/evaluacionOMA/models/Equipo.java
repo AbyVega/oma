@@ -10,7 +10,7 @@ import javax.persistence.*;
 import lombok.Data;
 
 /**
- *
+
  * @author abiga
  */
 @Entity
